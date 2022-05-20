@@ -9,7 +9,7 @@
   </div>
 
   <div>
-    <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=EE64F7&fontStyle=samakaran&text=Cao%20Hoang%20Kiet&height=150&fontSize=80&desc=Pleiku,%20Gia%20Lai&descAlignY=75&descAlign=83.4"/>
+    <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=EE64F7&fontStyle=samakaran&text=Cao%20Hoang%20Kiet&height=150&fontSize=80&desc=2k2&descAlignY=75&descAlign=83.4"/>
     <p align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=39ff14&height=100&lines=Software+Developer;Back-End+Developer&descAlignY=75&descAlign=83.4&center=true&vCenter=true"/><br>
        <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
@@ -21,13 +21,13 @@
   <tr>
     <td valign="center">
       
-🎓 I am currently pursuing my *Computer Science Engineering major*.
+🎓 I am currently majoring in **Computer Science** at **Ho Chi Minh City University of Technology**.
 
-🌱 I am currently learning _Javascript, C++_ and also interested in _Web Developer_.
+🌱 I learned **HTML, CSS, Javascript, Nodejs, Reactjs, C++** and am also keened on **Web Developer and Web3**.
 
-🎯 My Goal is to contribute to as many _open source projects_ as possible.
+🎯 My Goal is to contribute to as many **open source projects** as possible.
 
-✨ I want to make some applications relating to _BlockChain_ and _Web3_ in the near future.
+✨ I want to make some applications relating to **BlockChain** and **Web3** in the near future.
 
   </td>
 
