@@ -21,13 +21,15 @@
   <tr>
     <td valign="center">
       
-🎓 I am currently majoring in **Computer Science** at **Ho Chi Minh City University of Technology**.
+🎓 Currently studying **Computer Science** from **Ho Chi Minh City University of Technology**.
 
-🌱 I learned **HTML, CSS, Javascript, Nodejs, Reactjs, C++** and am also keened on **Web Developer and Web3**.
+:muscle: Passionate about **BlockChain** and **Web3**.
+
+🌱 I learned **HTML, CSS, Javascript, Nodejs, Reactjs, C++** and want to become **Web Developer and Web3 Developer**.
 
 🎯 My Goal is to contribute to as many **open source projects** as possible.
 
-✨ I want to make some applications relating to **BlockChain** and **Web3** in the near future.
+🚀 Love to talking about **Research and Innovation!**.
 
   </td>
 
