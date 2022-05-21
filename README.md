@@ -12,7 +12,7 @@
      <!-- <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=EE64F7&fontStyle=samakaran&text=Cao%20Hoang%20Kiet&height=150&fontSize=60&animation=fadeIn&desc=(ɔ◔︣‿◔︣)ɔ%20❤%20%202k2%20%20❤%20(ˆ‿ˆԅ)&descAlignY=95&descAlign=83.4&descSize=20"/> -->
      <p align="center">
        <img width="100px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
-       <img width="350px" src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=0ff2ee&fontStyle=samakaran&text=(ɔ◔︣‿◔︣)ɔ%20❤%20%202k2%20%20❤%20(ˆ‿ˆԅ&height=150&fontSize=50&animation=fadeIn"/>
+       <img width="350px" src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=0ff2ee&fontStyle=samakaran&text=(ɔ◔︣‿◔︣)ɔ%20❤%20%202k2%20%20❤%20(ˆ‿ˆԅ&height=150&fontSize=50&animation=fadeIn&fontAlignY=30"/>
        <img width="100px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
      </p>
     <p align="center">
