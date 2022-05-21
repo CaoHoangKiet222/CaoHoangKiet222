@@ -54,7 +54,7 @@
 
 <p align="center">
  <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoHoangKiet222&bg_color=14141450&hide=java,tex,c&layout=compact&theme=radical&custom_title=Languages" /> 
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoHoangKiet222&bg_color=14141450&hide=java,tex,c&layout=compact&theme=radical&custom_title=Languages&title_color=39ff14" /> 
  <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
 </p>
 </body>
