@@ -41,6 +41,8 @@
 </table>
 </div>
 
+## Graph
+
 ![Github Activity Graph](https://chk-github-activity-graph.herokuapp.com/graph?username=kietcaohoang)
 
 </body>
