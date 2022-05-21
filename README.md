@@ -49,7 +49,7 @@
 <p align="center">
  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adrianaluisadc&show_icons=true&theme=radical&count_private=true&custom_title=@adrianaluisadc "> -->
 
- <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=CaoHoangKiet222&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D&background=14030349&ring=1DCBDD&fire=DDDC3E&sideNums=1DDDC3&currStreakNum=D01BDD&currStreakLabel=DD18DD" />
+ <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=CaoHoangKiet222&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D&background=14141450&ring=1DCBDD&fire=DDDC3E&sideNums=1DDDC3&currStreakNum=D01BDD&currStreakLabel=DD18DD" />
 </p>
 
 <p align="center">
