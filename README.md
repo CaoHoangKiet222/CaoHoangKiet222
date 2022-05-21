@@ -49,7 +49,7 @@
 <p align="center">
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CaoHoangKiet222&show_icons=true&theme=radical&count_private=true&custom_title=@kietcaohoang">
 
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoHoangKiet222&bg_color=14141450&layout=compact&theme=radical&custom_title=Languages" /> 
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoHoangKiet222&bg_color=14141450&theme=radical&custom_title=Languages" /> 
 </p>
 
 <p align="center">
