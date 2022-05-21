@@ -11,7 +11,7 @@
   <div>
     <p align="center">
      <img width="100px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
-     <img width="auto" src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=EE64F7&fontStyle=samakaran&text=Cao%20Hoang%20Kiet&height=150&fontSize=50&animation=fadeIn&desc=(ɔ◔︣‿◔︣)ɔ%20❤%20%202k2%20%20❤%20(ˆ‿ˆԅ)&descAlignY=95&descAlign=83.4"/>
+     <img width="300px" src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=EE64F7&fontStyle=samakaran&text=Cao%20Hoang%20Kiet&height=150&fontSize=50&animation=fadeIn&desc=(ɔ◔︣‿◔︣)ɔ%20❤%20%202k2%20%20❤%20(ˆ‿ˆԅ)&descAlignY=95&descAlign=83.4"/>
      <img width="100px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
     </p>
     <p align="center">
