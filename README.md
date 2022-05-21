@@ -2,10 +2,9 @@
 <div>
   <div>
     <p align="center">
-     <img width="200px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
-     <!-- <img width="200px" height="auto" src="CHK-logo.png"> -->
-    <img src = "https://capsule-render.vercel.app/api?type=transparent&color=gradient&fontStyle=samakaran&text=Hi%20There&height=50&fontSize=40"/>
-     <img width="200px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
+     <img width="100px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
+    <img width="100px" src = "https://capsule-render.vercel.app/api?type=transparent&color=gradient&fontStyle=samakaran&text=Hi%20There&height=50&fontSize=40"/>
+     <img width="100px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
     </p>
   </div>
 
