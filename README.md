@@ -10,7 +10,7 @@
 
   <div>
      <!-- <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=EE64F7&fontStyle=samakaran&text=Cao%20Hoang%20Kiet&height=150&fontSize=60&animation=fadeIn&desc=(ɔ◔︣‿◔︣)ɔ%20❤%20%202k2%20%20❤%20(ˆ‿ˆԅ)&descAlignY=95&descAlign=83.4&descSize=20"/> -->
-     <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=EE64F7&fontStyle=samakaran&text=(ɔ◔︣‿◔︣)ɔ%20❤%20%202k2%20%20❤%20(ˆ‿ˆԅ&height=150&fontSize=60&animation=fadeIn"/>
+     <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=EE64F7&fontStyle=samakaran&text=(ɔ◔︣‿◔︣)ɔ%20❤%20%202k2%20%20❤%20(ˆ‿ˆԅ&height=100&fontSize=30&animation=fadeIn"/>
     <p align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=39ff14&height=100&lines=Software+Developer;Back-End+Developer&descAlignY=75&descAlign=83.4&center=true&vCenter=true"/><br>
        <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
