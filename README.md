@@ -43,6 +43,6 @@
 
 ## Graph
 
-![Github Activity Graph](https://chk-github-activity-graph.herokuapp.com/graph?username=CaoHoangKiet222&bg_color=#f8f8f2&point=f5eb2a)
+![Github Activity Graph](https://chk-github-activity-graph.herokuapp.com/graph?username=CaoHoangKiet222&bg_color=f8f8f2&point=f5eb2a)
 
 </body>
