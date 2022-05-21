@@ -3,7 +3,7 @@
   <div>
     <p align="center">
      <img width="200px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
-     <img width="300px" src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=EE64F7&fontStyle=samakaran&text=╰☆☆%20𝓒𝓗𝓚%20☆☆╮★&height=250&fontSize=200&animation=fadeIn"/>
+     <img width="350px" src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=EE64F7&fontStyle=samakaran&text=★★%20𝓒𝓗𝓚%20★★&height=250&fontSize=200&animation=fadeIn"/>
      <img width="200px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
     </p>
   </div>
