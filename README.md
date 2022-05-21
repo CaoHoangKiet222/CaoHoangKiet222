@@ -3,7 +3,7 @@
   <div>
     <p align="center">
      <!-- <img width="200px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> -->
-     <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=EE64F7&fontStyle=samakaran&text=╰☆☆%20𝓒𝓗𝓚%20☆☆╮&height=200&fontSize=150&animation=fadeIn"/>
+     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=EE64F7&fontStyle=samakaran&text=╰☆☆%20𝓒𝓗𝓚%20☆☆╮&height=150&fontSize=100&animation=fadeIn"/>
      <!-- <img width="200px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> -->
     </p>
   </div>
@@ -11,9 +11,9 @@
   <div>
      <!-- <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=EE64F7&fontStyle=samakaran&text=Cao%20Hoang%20Kiet&height=150&fontSize=60&animation=fadeIn&desc=(ɔ◔︣‿◔︣)ɔ%20❤%20%202k2%20%20❤%20(ˆ‿ˆԅ)&descAlignY=95&descAlign=83.4&descSize=20"/> -->
      <p>
-     <img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
-     <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=0ff2ee&fontStyle=samakaran&text=(ɔ◔︣‿◔︣)ɔ%20❤%20%202k2%20%20❤%20(ˆ‿ˆԅ&height=50&fontSize=15&animation=fadeIn"/>
-     <img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
+       <img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
+       <img width="50px" src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=0ff2ee&fontStyle=samakaran&text=(ɔ◔︣‿◔︣)ɔ%20❤%20%202k2%20%20❤%20(ˆ‿ˆԅ&height=50&fontSize=15&animation=fadeIn"/>
+       <img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
      </p>
     <p align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=39ff14&height=100&lines=Software+Developer;Back-End+Developer&descAlignY=75&descAlign=83.4&center=true&vCenter=true"/><br>
