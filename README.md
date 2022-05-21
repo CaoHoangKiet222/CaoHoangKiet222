@@ -3,7 +3,7 @@
   <div>
     <p align="center">
      <!-- <img width="200px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> -->
-     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=EE64F7&fontStyle=samakaran&text=╰☆☆%20𝓒𝓗𝓚%20☆☆╮&height=150&fontSize=90&animation=fadeIn"/>
+     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=EE64F7&fontStyle=samakaran&text=╰☆☆%20𝓒𝓗𝓚%20☆☆╮&height=130&fontSize=90&animation=fadeIn"/>
      <!-- <img width="200px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> -->
     </p>
   </div>
@@ -16,7 +16,7 @@
        <img width="100px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
      </p>
     <p align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=39ff14&height=100&lines=Software+Developer;Back-End+Developer&descAlignY=75&descAlign=83.4&center=true&vCenter=true"/><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=39ff14&height=80&lines=Software+Developer;Back-End+Developer&descAlignY=75&descAlign=83.4&center=true&vCenter=true"/><br>
        <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
     </p>
   </div>
