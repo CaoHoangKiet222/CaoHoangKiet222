@@ -47,7 +47,7 @@
 ![Github Activity Graph](https://chk-github-activity-graph.herokuapp.com/graph?username=CaoHoangKiet222&bg_color=14141450&point=f5eb2a&line=0ff2ee&color=ea22f5&radius=5)
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CaoHoangKiet222&show_icons=true&bg_color=14141450&theme=radical&count_private=true&custom_title=@kietcaohoang">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CaoHoangKiet222&show_icons=true&bg_color=14141450&theme=radical&title_color=DD18DD&count_private=true&custom_title=@kietcaohoang">
 
  <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=CaoHoangKiet222&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D&background=14141450&ring=1DCBDD&fire=DDDC3E&sideNums=1DDDC3&currStreakNum=D01BDD&currStreakLabel=DD18DD" />
 </p>
