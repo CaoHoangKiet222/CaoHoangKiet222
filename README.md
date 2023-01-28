@@ -49,7 +49,7 @@
 
 ## ✨GitHub Contribution Graph :
 
-![Github Activity Graph](https://chk-github-activity-graph.herokuapp.com/graph?username=CaoHoangKiet222&bg_color=14141450&point=f5eb2a&line=0ff2ee&color=ea22f5&radius=5)
+![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=CaoHoangKiet222&bg_color=14141450&point=f5eb2a&line=0ff2ee&color=ea22f5&radius=5)
 
 ## ✨GitHub Status :
 
