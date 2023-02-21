@@ -54,14 +54,14 @@
 ## ✨GitHub Status :
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CaoHoangKiet222&show_icons=true&bg_color=14141450&theme=aura&title_color=DD18DD&count_private=true&custom_title=@kietcaohoang">
+ <img width="48%" src="github-readme-stats-git-master-caohoangkiet222.vercel.app/api?username=CaoHoangKiet222&show_icons=true&bg_color=14141450&theme=aura&title_color=DD18DD&count_private=true&custom_title=@kietcaohoang">
 
  <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=CaoHoangKiet222&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D&background=14141450&ring=1DCBDD&fire=DDDC3E&sideNums=1DDDC3&currStreakNum=D01BDD&currStreakLabel=DD18DD" />
 </p>
 
 <p align="center">
  <!-- <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png"> -->
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaoHoangKiet222&bg_color=14141450&hide=java,tex,c&layout=compact&theme=radical&custom_title=Languages&title_color=39ff14" /> 
+ <img width="400px" src="github-readme-stats-git-master-caohoangkiet222.vercel.app/api/top-langs/?username=CaoHoangKiet222&bg_color=14141450&hide=java,tex,c&layout=compact&theme=radical&custom_title=Languages&title_color=39ff14" /> 
  <!-- <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png"> -->
 </p>
 </body>
