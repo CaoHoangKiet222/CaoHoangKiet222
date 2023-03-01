@@ -8,9 +8,9 @@
 
   <div>
      <p align="center">
-       <img width="100" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
+       <img width="100" src="https://github.com/CaoHoangKiet222/CaoHoangKiet222/blob/main/images/ocean.gif">
        <img width="250" src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=f2d5d5&fontStyle=samakaran&text=(ɔ◔︣‿◔︣)ɔ%20❤%20%202k2%20%20❤%20(ˆ‿ˆԅ&height=150&fontSize=60&animation=fadeIn&fontAlignY=70"/>
-       <img width="100" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
+       <img width="100" src="https://github.com/CaoHoangKiet222/CaoHoangKiet222/blob/main/images/ocean.gif">
      </p>
     <p align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=39ff14&height=80&lines=Software+Developer;Back-End+Developer&descAlignY=75&descAlign=83.4&center=true&vCenter=true"/><br>
